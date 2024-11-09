@@ -1,0 +1,7 @@
+[project]
+name = "ffactory"
+version = "0.1.0"
+description = "Function-based factory generator"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
